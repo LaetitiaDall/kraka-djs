@@ -9,8 +9,8 @@
   },
   "contributors": ["Dave Scotese"],
   "dependencies": {
-    "got": "^11.1.4",
-    "qs": "^6.9.4"
+    "got": "^12.0.3",
+    "qs": "^6.10.3"
   },
   "description": "kraken.com API client library for NodeJS",
   "engines": {
